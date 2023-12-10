@@ -345,6 +345,9 @@ print('   +-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+---
 sect = ['s','k','t','f','h','m','o','z']
 kyad = 'https://www.kenbiya.com'
 
+# kyad = 'https://profiledb.club/'
+# pingchuan.longying@gmail.com
+# s9ypi3e7
 '''
 
 html = urlopen(kyad + '')     # ダミー遷移開始、人がリンクを順番に辿っているが如く擬態
